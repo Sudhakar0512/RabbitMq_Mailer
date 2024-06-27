@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "body-parser": "^1.20.2",
+    "cros": "^1.0.1",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
